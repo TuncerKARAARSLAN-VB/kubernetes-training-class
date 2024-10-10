@@ -13,8 +13,17 @@ Markdown taglerini deneyimleyelim.
 ###### Merhaba Dünya
 
 ---
+# En Sık  Kullanılan Markdown Komutları
 
-Markdown'un en sık kullanılan komutlarını, açıklamalarını ve kullanım sıklıklarını içeren bir tabloyu aşağıda bulabilirsiniz. 
+
+**Markdown'un en sık kullanılan komutlarını, açıklamalarını ve kullanım sıklıklarını içeren bir tabloyu aşağıda bulabilirsiniz.**
+
+*italic*
+
+***bold italic***
+
+~~üzeri çizili örnek~~
+
 
 | Komut                          | Açıklama                               | Örnek                        | Kullanım Sıklığı |
 |---------------------------------|----------------------------------------|------------------------------|------------------|
