@@ -12,6 +12,8 @@ Markdown taglerini deneyimleyelim.
 
 ###### Merhaba Dünya
 
+---
+
 Markdown'un en sık kullanılan komutlarını, açıklamalarını ve kullanım sıklıklarını içeren bir tabloyu aşağıda bulabilirsiniz. 
 
 | Komut                          | Açıklama                               | Örnek                        | Kullanım Sıklığı |
