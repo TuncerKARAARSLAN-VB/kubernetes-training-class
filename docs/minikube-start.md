@@ -40,3 +40,24 @@
    ```bash
    kubectl get nodes
    ```
+
+6. **Minikube profile**:
+   
+   You can now use `kubectl` to manage your Minikube cluster. For example, check the nodes in your cluster with:
+   
+   ```bash
+   kubectl profile list
+   ```   
+
+   ![](./images/minikube-profile-list.png)
+
+   ***minikube***
+
+      ```bash
+   kubectl profile minikube
+   ```
+
+![](./images/minikube-profile-minikube.png)
+
+   Öncelikle profil listesi alınır. Ardından listedeki durumu öğrenilmek istenen profil ismi ile yeniden 2. komut çalıştırılır.
+   
