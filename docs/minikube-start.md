@@ -43,8 +43,6 @@
 
 6. **Minikube profile**:
    
-   You can now use `kubectl` to manage your Minikube cluster. For example, check the nodes in your cluster with:
-   
    ```bash
    kubectl profile list
    ```   
@@ -61,3 +59,10 @@
 
    Öncelikle profil listesi alınır. Ardından listedeki durumu öğrenilmek istenen profil ismi ile yeniden 2. komut çalıştırılır.
    
+7. **Minikube config view**:
+   
+   ```bash
+   kubectl config view
+   ```   
+
+![](./images/minikube-config-view.png)
